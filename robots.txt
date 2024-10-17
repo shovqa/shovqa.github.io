@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shovqa.github.io/ngD/sitemap.ngD.gz
